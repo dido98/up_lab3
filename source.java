@@ -10,7 +10,9 @@ class HelloWorld
     }
     public static void KKK()
     {
+        int b =3;
         int a = 5;
         a++;
+        b++;
     }
 }
