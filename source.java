@@ -6,6 +6,11 @@ class HelloWorld
     public static void main(String args[])
     {
         System.out.println("Hello, Wo3rld");
-        System.upt.println("Dancho e kapitan!");
+        System.upt.println("Dancho e kapitan+voidoda!");
+    }
+    public static void KKK()
+    {
+        int a = 5;
+        a++;
     }
 }
