@@ -19,7 +19,7 @@ class HelloWorld
     {
         int a=2;
         int b=3;
-        int c=0;
+        int c=100;
     }
 
     private string get_name()
