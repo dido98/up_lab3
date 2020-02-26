@@ -24,6 +24,7 @@ class HelloWorld
 
     private string get_name()
     {
-        return "niqqa2";
+        return "niqqa";
+        return "niq22qa";
     }
 }
