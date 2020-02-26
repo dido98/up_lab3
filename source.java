@@ -21,4 +21,9 @@ class HelloWorld
         int b=3;
         int c=0;
     }
+
+    private string get_name()
+    {
+        return "niqqa";
+    }
 }
