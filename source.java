@@ -15,4 +15,10 @@ class HelloWorld
         a++;
         b++;
     }
+    public static void Da()
+    {
+        int a=2;
+        int b=3;
+        int c=0;
+    }
 }
